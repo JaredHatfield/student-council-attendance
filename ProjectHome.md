@@ -1,0 +1,6 @@
+PHP web application used by Speed School Student Council for managing members, attendance, committee membership, and achievements.
+
+Interested in using Student Council Attendance for your organization?  The current version of this application was specifically designed for one specific organization.  Work needs to be done to make some of the features more generalized and add some missing administrative interfaces before this is ready use by your organization.  If you want to help out contact the developer on this project.
+
+| &lt;wiki:gadget url="http://www.ohloh.net/p/426340/widgets/project\_languages.xml" height="200" width="350" border="0"/&gt; | &lt;wiki:gadget url="http://www.ohloh.net/p/426340/widgets/project\_basic\_stats.xml" height="250" width="350" border="0"/&gt; |
+|:----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
